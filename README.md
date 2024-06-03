@@ -50,6 +50,10 @@ Below is a description for each column in the dataset:
 
 *  **City**: The city where the ATCM was held. This geographical information adds to the understanding of where the decisions were made, which can be relevant for regional studies and analyses.
 
+**Acknowledgement:**
+
+Research funded by Australian Research Council SRIEAS Grant SR200100005 Securing Antarctica’s Environmental Future.
+
 
 **Note**:
 
